@@ -1,5 +1,6 @@
 build/
 src_gen/
+.settings/
 
 *.log
 build.properties
